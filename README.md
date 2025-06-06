@@ -1,4 +1,7 @@
 # Olá, eu sou o Lucas Moura! 👋
+<p align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=3398DB&center=false&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+JavaScript+%26+TypeScript;Sempre+aprendendo+algo+novo" alt="Typing SVG" /></a>
+</p>
 
 <a href="https://github.com/lmoura00">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lmoura00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -6,6 +9,10 @@
 <a href="https://github.com/lmoura00">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmoura00&layout=compact&langs_count=7&theme=dracula"/>
 </a>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lmoura00&theme=dracula&hide_border=true&area=true" alt="Gráfico de Atividade"/>
+</p>
 
 <br>
 
