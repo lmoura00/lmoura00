@@ -37,7 +37,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://expo.dev/" target="_blank" rel="noreferrer">
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45a06d3655848ae10NL/icons/expo/expo-original.svg](https://avatars.githubusercontent.com/u/12504344?s=200&v=4)" alt="expo" width="40" height="40"/>
+    <img src="[https://avatars.githubusercontent.com/u/12504344?s=200&v=4]" alt="expo" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
