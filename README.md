@@ -21,7 +21,7 @@ Sou um desenvolvedor backend apaixonado por tecnologia e por resolver problemas 
 
 Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
 
-- **Linguagem Principal:** `JavaScript/TypeScript`
+- **Linguagem Principal:** `JavaScript`, `TypeScript`, `Python`
 - **Frameworks:** `Expo`, `React`, `React-Native`
 - **APIs:** Desenvolvimento e documentação de `REST APIs`
 - **Banco de Dados:** `PostgreSQL`, `MySQL`, `Firebase (Realtime Database)`, `Supabase`
