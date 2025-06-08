@@ -23,6 +23,7 @@ Sou um desenvolvedor backend apaixonado por tecnologia e por resolver problemas 
 - 🎓 Cursando **Sistemas para internet - IFMA**.
 - 🌱 Explorando o universo **JavaScript**, **TypeScript**, **Docker** e boas práticas de arquitetura de software.
 - 💡 Buscando constantemente por novos desafios e oportunidades de aprendizado.
+- 📱 Atualmente focado em mobile;
 
 ## 🛠️ Habilidades e Tecnologias
 
