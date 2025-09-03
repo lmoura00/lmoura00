@@ -66,6 +66,9 @@ Estas são algumas das tecnologias com as quais tenho trabalhado:
 Sinta-se à vontade para se conectar comigo!
 
 <p align="left">
+  <a href="https://lmouraportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
+  </a>
   <a href="https://www.linkedin.com/in/lucas-moura-610579194/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
